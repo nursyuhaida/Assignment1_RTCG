@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alien Silly Dancing
+* source:	https://sketchfab.com/3d-models/alien-silly-dancing-45675f3b54a54ad9be5173646f263641
+* author:	nonny (https://sketchfab.com/nonny)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alien Silly Dancing" (https://sketchfab.com/3d-models/alien-silly-dancing-45675f3b54a54ad9be5173646f263641) by nonny (https://sketchfab.com/nonny) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
